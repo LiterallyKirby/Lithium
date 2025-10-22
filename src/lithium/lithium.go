@@ -96,3 +96,9 @@ defer world.mu.RUnlock()
 
 
 }
+
+
+
+func (g *engineGame) Layout(outsideWidth, outsideHeight int) (int, int) {
+	return DefaultWindowW, DefaultWindowH
+}

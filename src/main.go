@@ -2,7 +2,7 @@ package main
 
 
 import (
-lithium "github.com/LiterallyKirby/Lithium"
+lithium "Lithium/src/lithium"
 )
 
 
