@@ -2,12 +2,12 @@ package lithium
 
 
 import (
-"image/color"
+
 "log"
 "sync"
 
 
-"github.com/hajimehoshi/ebiten/v2"
+ebiten "github.com/hajimehoshi/ebiten/v2"
 )
 
 
